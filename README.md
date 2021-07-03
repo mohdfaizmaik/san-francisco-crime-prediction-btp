@@ -6,7 +6,7 @@ I have completed this project using python. i have given detailed overview of th
 
 there are two datasets are given one as train dataset and second as test sataset the link to the data sets is https://www.kaggle.com/c/sf-crime/data.
 
-we hahve to train our model using trin dataset and after training of model apply it on test dataset to evaluate the result.
+we have to train our model using trin dataset and after training of model apply it on test dataset to evaluate the result.
 
 This dataset contains incidents derived from SFPD Crime Incident Reporting system. The data ranges from 1/1/2003 to 5/13/2015. The training set and test set rotate every week, 
 meaning week 1,3,5,7... belong to test set, week 2,4,6,8 belong to training set. 
